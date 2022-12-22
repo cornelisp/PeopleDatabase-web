@@ -45,7 +45,7 @@ This application uses an in-memory H2 database to store the tasks. The database 
 ### Tasks to do
 
 - [x] Add ability to edit.
-- [ ] Add ability to delete multiple records.
+- [x] Add ability to delete multiple records.
 - [ ] Add ability to upload photo.
 - [ ] Improve UI.
 
